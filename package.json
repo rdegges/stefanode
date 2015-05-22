@@ -1,0 +1,22 @@
+{
+  "name": "stefanode",
+  "version": "1.0.0",
+  "description": "=)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/stefanode"
+  },
+  "keywords": [
+    "stefano"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/stefanode/issues"
+  },
+  "homepage": "https://github.com/rdegges/stefanode"
+}
